@@ -1,7 +1,7 @@
 package com.demon.graphicunlock.widget;
 
 /**
- * Created by Jack on 16/10/12.
+ * Created by DeMon on 16/10/12.
  */
 public class LockUtil {
     /**

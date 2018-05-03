@@ -2,7 +2,7 @@ package com.demon.graphicunlock.widget;
 
 /**
  * 自定义的Point
- * Created by Jack on 16/10/12.
+ * Created by DeMon on 16/10/12.
  */
 public class Point {
 

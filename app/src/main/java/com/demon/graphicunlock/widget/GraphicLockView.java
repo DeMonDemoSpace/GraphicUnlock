@@ -19,7 +19,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Jack on 16/10/12.
+ * Created by DeMon on 16/10/12.
  */
 public class GraphicLockView extends View {
     /**
