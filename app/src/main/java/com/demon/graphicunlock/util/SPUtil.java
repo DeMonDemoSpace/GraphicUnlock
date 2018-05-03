@@ -1,4 +1,4 @@
-package com.demon.graphicunlock;
+package com.demon.graphicunlock.util;
 
 import android.content.Context;
 import android.content.SharedPreferences;

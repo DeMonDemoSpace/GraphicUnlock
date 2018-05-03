@@ -1,10 +1,10 @@
 package com.demon.graphicunlock;
 
-import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
 
+import com.demon.graphicunlock.util.SPUtil;
 import com.demon.graphicunlock.widget.GraphicLockView;
 
 public class SettingActivity extends AppCompatActivity {
